@@ -34,7 +34,7 @@ const ChartsSection = () => {
         </div>
       </div>
 
-      <div className="h-[400px] w-full">
+      <div style={{ width: '100%', height: 400 }}>
         <ResponsiveContainer width="100%" height="100%">
           <AreaChart
             data={monthlyProgressData}
