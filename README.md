@@ -31,7 +31,7 @@ Ensure you have Node.js and npm installed on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Van5hdeep/EcoTrack.git
+   git clone https://github.com/Van5hdeep/EcoTrack-.git
    ```
 
 2. Navigate into the project directory:
